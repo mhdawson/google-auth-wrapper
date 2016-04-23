@@ -1,0 +1,30 @@
+{
+  "name": "google-auth-wrapper",
+  "version": "0.5.0",
+  "description": "Wrapper to simplify interaction with google oauth apis",
+  "main": "lib/googleAuthWrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdawson/google-auth-wrapper.git"
+  },
+  "dependencies": {
+    "google-auth-library": "^0.9.7",
+    "googleapis": "^5.0.0"
+  },
+  "keywords": [
+    "google",
+    "apis",
+    "api",
+    "oauth",
+    "server"
+  ],
+  "author": "Michael Dawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhdawson/google-auth-wrapper/issues"
+  },
+  "homepage": "https://github.com/mhdawson/google-auth-wrapper#readme"
+}
