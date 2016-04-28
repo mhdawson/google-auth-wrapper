@@ -145,7 +145,7 @@ adjust this to request the level of access required.
 
 For this example you will to have to have stored your credentials from
 google in the file 'client_secret.json' and the refresh token
-created by the authorized call will have been stored in
+created by the authorize call will have been stored in
 'client_secret.token'. **NOTE** make
 sure to protect these two files appropriately as they give
 full access to whatever access level you have requested.
